@@ -1,4 +1,4 @@
-export const mergeSort = array => {
+function mergeSort(array) {
     //Base case
     if(array.length === 1) {
         return array;
