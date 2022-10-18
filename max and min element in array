@@ -1,0 +1,41 @@
+#include<iostream>
+Using namespace std;
+Int getmin(int num[], int n){
+  Int min = INT_MAX;
+For(int I = 0; i<n; i++)
+{
+     If(num[i] > min){
+     min = num[i];
+    }
+} 
+//returning min value
+Return min;
+}
+
+Int getMax(int num[], int n){
+  Int maxi = INT_MIN;
+For(int I = 0; i<n; i++)
+{
+     Maxi=max(maxi,num[i]);
+     //If(num[i] > max){
+     //Max = num[i];
+   // }
+} Int
+//returning max value
+Return max;
+}
+Int main()
+{
+  Int size;
+  Cin>>size;
+Int num[100];
+//taking input in array
+For(int I =0;i<size;i++)
+{
+   Cin>>num[i];
+}
+Cout<<”maximum value is”<< gemax(num,size)<<endl;
+Cout<<”minimum value is”<< gemin(num,size)<<endl;
+
+    Return 0;
+}
