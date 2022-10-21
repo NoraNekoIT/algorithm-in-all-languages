@@ -15,7 +15,7 @@ Your Time:
 
 Custom Input
 
-
+//https://practice.geeksforgeeks.org/problems/quick-sort/1
 class Solution
 {
     //Function to sort an array using quick sort algorithm.
