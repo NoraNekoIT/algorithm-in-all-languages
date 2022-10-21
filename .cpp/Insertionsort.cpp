@@ -19,7 +19,7 @@ void printarr(int arr[],int n){
 }
 }
 int main() {
-int arr[]={ 12, 11, 13, 5, 6 };
+int arr[]={ 122, 110, 130, 50, 20, 4, 1 };
 int n=sizeof(arr)/sizeof(arr[0]);
 insertionsort(arr,n);
 printarr(arr,n);
