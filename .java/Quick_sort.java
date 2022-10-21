@@ -1,66 +1,6 @@
 We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our Cookie Policy & Privacy Policy
 Got it!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Refresh
 
 Time (IST)	Status	Lang	Test Cases	Code
@@ -71,8 +11,6 @@ Average Time:
 15m
 Your Time:
 16m
-
-
 
 
 Custom Input
