@@ -1,0 +1,31 @@
+//java program to implement linear search
+class abc
+//Function for linear search
+public static int search(int aar[], int x)
+{
+int n = arr.length;
+//Traverse array arr[]
+for (int i = 0; i<n; i++) {
+//if element found then
+//return that index
+if (arr[i] == x)
+return i;
+}
+return -1;
+}
+
+//driver code
+public static void main(String args[])
+{
+//given arr[]
+int arr[] = {2,3,4,10,40};
+//element to serach
+int x = 10;
+//function call
+int result = search(arr,x);
+if (result == -1)
+System.out.print("Element is not present in array");
+else
+System.out.print("Element is present" + "at index" + result);
+}
+}
